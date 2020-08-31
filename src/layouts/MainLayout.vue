@@ -30,7 +30,7 @@
           header
           class="text-grey-8"
         >
-          Essential Linkssssssedddddddd
+          Essential Linksssssseddddddddsdad
         </q-item-label>
         <EssentialLink
           v-for="link in essentialLinks"
